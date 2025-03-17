@@ -30,10 +30,10 @@
 ###
 <h2> My Best Repo Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Mafia58&repo=Tiktok-Download-API&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Mafia58&repo=mvps&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Mafia58&repo=mafia58.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Mafia58&repo=HM-Filter-Bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=nimeshakalanka&repo=Tiktok-Download-API&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=nimeshakalanka&repo=mvps&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=nimeshakalanka&repo=nimeshakalanka.github.io&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=nimeshakalanka&repo=HM-Filter-Bot&theme=dark)
  
 <h2 align="left">Connect Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="left">
