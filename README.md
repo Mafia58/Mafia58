@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Nimesh+Akalanka;I%E2%80%99m+Currently+Working+As+%3A+Freelancer;+How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/Mafia58)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mafia58&hide=contribs,issues,stars&theme=tokyonight" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafia58&hide_title=true&hide_border=true&theme=tokyonight" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nimeshakalanka&hide=contribs,issues,stars&theme=tokyonight" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshakalanka&hide_title=true&hide_border=true&theme=tokyonight" /></div>
 
 
 
